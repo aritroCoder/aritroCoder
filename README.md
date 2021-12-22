@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- I'm currently a BTech student (expected 2025) at IIT Patna Electrical Engineering
+
 - 🔭 I’m currently working on [iNotebook (a note taking project)](https://github.com/aritroCoder/inotebook)
 
 - 🌱 I’m currently learning **MERN stack**
