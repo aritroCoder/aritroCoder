@@ -9,7 +9,7 @@
 
 - I'm currently a BTech student (expected 2025) at IIT Patna Electrical Engineering
 
-- 🔭 I’m currently working on [iNotebook (a note taking project)](https://github.com/aritroCoder/inotebook)
+- 🔭 I’m currently working on [CodePeak (India's Largest Open Source contribution event)](https://www.codepeak.tech/)
 
 - 🌱 I’m currently learning **MERN stack**
 
