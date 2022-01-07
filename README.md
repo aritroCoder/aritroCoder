@@ -20,13 +20,13 @@
 - ⚡ Fun fact **I like to play video games!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-direction: row">
 <a href="https://stackoverflow.com/users/indian_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="indian_coder" height="30" width="40" /></a>
   
 <a href="https://www.youtube.com/c/the indian coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the indian coder" height="30" width="40" /></a>
   
 <a href="https://www.facebook.com/profile.php?id=100076168148489" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/640px-2021_Facebook_icon.svg.png" alt="Aritra Bhaduri" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/640px-2021_Facebook_icon.svg.png" alt="Aritra Bhaduri" height="30" width="30" />
   </a>
 </p>
 
