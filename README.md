@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; flex-direction: row">
-<a href="https://stackoverflow.com/users/indian_coder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="indian_coder" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17532024/indian-coder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="indian_coder" height="30" width="40" /></a>
   
 <a href="https://www.youtube.com/c/the indian coder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the indian coder" height="30" width="40" /></a>
   
