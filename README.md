@@ -9,7 +9,7 @@
 
 - I'm currently a BTech student (expected 2025) at IIT Patna Electrical Engineering
 
-- 🔭 I’m currently working on [CodePeak (India's Largest Open Source contribution event)](https://www.codepeak.tech/)
+- 🔭 I’m currently working on nothing:) (Just academic stuff)
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/indian_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="indian_coder" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/the indian coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the indian coder" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100076168148489" target="blank"><img align="center" src="<a href="https://www.youtube.com/c/the indian coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the indian coder" height="30" width="40" /></a>" alt="Aritra Bhaduri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
