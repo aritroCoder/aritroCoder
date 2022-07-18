@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/aritrabhaduri5" target="blank"><img src="https://img.shields.io/twitter/follow/aritrabhaduri5?logo=twitter&style=for-the-badge" alt="aritrabhaduri5" /></a> </p>
 
-- 🔭 I’m currently working on [Ayu](https://github.com/aritroCoder/Ayu-Client)
 
 - 🌱 I’m currently learning **Blockchain**
 
