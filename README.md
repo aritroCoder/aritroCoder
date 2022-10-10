@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/aritrabhaduri5" target="blank"><img src="https://img.shields.io/twitter/follow/aritrabhaduri5?logo=twitter&style=for-the-badge" alt="aritrabhaduri5" /></a> </p>
 
+[![@aritrocoder's Holopin board](https://holopin.io/api/user/board?user=aritrocoder)](https://holopin.io/@aritrocoder)
+
 
 - 🌱 I’m currently learning **Blockchain**
 
